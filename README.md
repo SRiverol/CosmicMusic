@@ -1,6 +1,10 @@
 # Cosmic Music
 
-A music player written in the libcosmic toolkit
+A music player written in safe Rust with the libcosmic toolkit.
+
+![Home Page of application playing music](url to the image you want to include)
+![Album page of application](url to the image you want to include)
+![Album info page of application](url to the image you want to include)
 
 ## Installation
 
